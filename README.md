@@ -75,7 +75,12 @@ The workflow completed successfully on the `main` branch.
 
 The Part 1 video will explain the ERD design, API Endpoint Plan, SQL database design, and the successful execution of the SQL script in SSMS.
 
-**YouTube Link:** Add the Unlisted YouTube link here before final submission.
+**YouTube Link:** 
+## Part 1 Video
+
+My Part 1 video has been uploaded to YouTube as an Unlisted video.
+
+[Watch my Part 1 video](https://youtu.be/HztT_DQQDrA)
 
 ## Part 1 Notes
 
