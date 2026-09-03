@@ -72,7 +72,7 @@ The sample data includes organisers, participants, events, categories, enrolment
 
 ## CI/CD
 
-GitHub Actions is used to validate the Part 1 repository structure. The workflow checks that the required `docs` folder, README file, ERD, API Endpoint Plan, and SQL database script are present.
+GitHub Actions is used to validate the Part 1 repository structure.
 
 ### Successful GitHub Actions Build
 
