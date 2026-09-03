@@ -71,9 +71,6 @@ GitHub Actions is used to validate the Part 1 repository structure. The workflow
 
 The workflow completed successfully on the `main` branch.
 
-## Video Demonstration
-
-The Part 1 video will explain the ERD design, API Endpoint Plan, SQL database design, and the successful execution of the SQL script in SSMS.
 
 **YouTube Link:** 
 ## Part 1 Video
