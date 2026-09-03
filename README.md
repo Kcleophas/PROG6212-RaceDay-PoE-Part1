@@ -44,19 +44,22 @@ PROG6212-RaceDay-PoE-Part1
 └── .github
     └── workflows
         └── part1-ci.yml
-```text
+
 
 ## Database Setup
 
 The database script is written for Microsoft SQL Server and can be executed in SQL Server Management Studio (SSMS).
-## Database Setup
+
+### Steps
 
 1. Open SQL Server Management Studio.
 2. Open `docs/RaceDay_Database.sql`.
 3. Connect to the SQL Server instance.
 4. Run the complete script from beginning to end.
 5. Confirm that `RaceDayDB` and all seven tables are created.
-6. Check the sample data using the verification queries.
+6. Check the sample data using the verification queries included in the script.
+
+## Database Entities 
 
 The script creates the following entities:
 
@@ -74,18 +77,27 @@ The sample data includes organisers, participants, events, categories, enrolment
 
 GitHub Actions is used to validate the Part 1 repository structure.
 
+The workflow checks that the required files and folders are present, including:
+
+- `README.md`
+- `docs/RaceDay_ERD.pdf`
+- `docs/RaceDay_API_Endpoint_Plan.pdf`
+- `docs/RaceDay_Database.sql`
+- `.github/workflows/part1-ci.yml`
+
 ### Successful GitHub Actions Build
 
 ![Successful RaceDay Part 1 CI build](docs/CI-Build-Success.png)
 
 The workflow completed successfully on the `main` branch.
 
-
 ## Part 1 Video
 
 My Part 1 video has been uploaded to YouTube as an Unlisted video.
 
 [Watch my Part 1 video](https://youtu.be/HztT_DQQDrA)
+
+The video explains my ERD decisions, API Endpoint Plan, SQL database design, live SQL execution in SSMS, sample data, and the successful GitHub Actions build.
 
 ## Part 1 Notes
 
