@@ -2,9 +2,13 @@
 
 ## Project Description
 
-RaceDay is a web-based event management system for South African road running, walking, and cycling events. The system is designed to support event organisers and participants by keeping event, category, enrolment, and race result information organised in one database.
+RaceDay is a web-based event management system for South African
+road running, walking, and cycling events.
 
-This Part 1 submission focuses on planning the system before application development begins. The main technical deliverables are the Entity Relationship Diagram (ERD), API Endpoint Plan, and SQL Server database script.
+For Part 1, I focused on planning the system before application
+development begins. I created the database design, planned the
+future API endpoints, created the SQL Server database script,
+and set up GitHub Actions to validate the required files.
 
 ## User Roles
 
