@@ -34,15 +34,13 @@ enrolments, and view their race results and performance history.
 
 ## Repository Structure
 
+```text
 PROG6212-RaceDay-PoE-Part1
-│
 ├── README.md
-│
 ├── docs
 │   ├── RaceDay_ERD.pdf
 │   ├── RaceDay_API_Endpoint_Plan.pdf
 │   └── RaceDay_Database.sql
-│
 └── .github
     └── workflows
         └── part1-ci.yml
