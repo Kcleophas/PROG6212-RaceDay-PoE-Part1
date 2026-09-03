@@ -81,7 +81,6 @@ GitHub Actions is used to validate the Part 1 repository structure.
 The workflow completed successfully on the `main` branch.
 
 
-**YouTube Link:** 
 ## Part 1 Video
 
 My Part 1 video has been uploaded to YouTube as an Unlisted video.
