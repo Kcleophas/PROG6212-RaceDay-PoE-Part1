@@ -49,13 +49,14 @@ PROG6212-RaceDay-PoE-Part1
 ## Database Setup
 
 The database script is written for Microsoft SQL Server and can be executed in SQL Server Management Studio (SSMS).
+## Database Setup
 
 1. Open SQL Server Management Studio.
 2. Open `docs/RaceDay_Database.sql`.
-3. Connect to a SQL Server instance.
-4. Execute the complete script from the beginning to the end.
-5. Confirm that the `RaceDayDB` database and all seven tables are created.
-6. Check the sample records and relationships using the verification queries included in the script.
+3. Connect to the SQL Server instance.
+4. Run the complete script from beginning to end.
+5. Confirm that `RaceDayDB` and all seven tables are created.
+6. Check the sample data using the verification queries.
 
 The script creates the following entities:
 
