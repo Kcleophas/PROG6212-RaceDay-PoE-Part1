@@ -14,11 +14,15 @@ and set up GitHub Actions to validate the required files.
 
 ### Organiser
 
-Organisers manage the events they create. They can create, edit, and delete events, manage event categories, view event enrolments, and capture participant race results.
+Organisers manage the events they create. They can create, edit,
+and delete events, manage event categories, view event enrolments,
+and capture participant race results.
 
 ### Participant
 
-Participants can create an account and log in, browse available events, enter an event by selecting a category, view their own enrolments, and view their race results and performance history.
+Participants can create an account and log in, browse available
+events, enter an event by selecting a category, view their own
+enrolments, and view their race results and performance history.
 
 ## Part 1 Deliverables
 
